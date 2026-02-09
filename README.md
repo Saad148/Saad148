@@ -8,8 +8,6 @@
 
 passionate developer obsessed with building **clean, user-focused web experiences** that actually solve problems. i love the entire journey — from sketching ideas to shipping real, usable products. constantly learning, always experimenting, deeply invested in turning vague concepts into something tangible.
 
-if you're building something cool and want to collaborate, let's talk. 🚀
-
 ---
 
 ## 💻 tech stack
