@@ -41,12 +41,6 @@ if you're building something cool and want to collaborate, let's talk. 🚀
 
 </div>
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad148&theme=dark&hide_border=true&bg_color=0D1117&text_color=A78BFA&title_color=A78BFA&border_color=A78BFA&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Saad148)
-
-</div>
-
 ---
 
 ## 🔝 top contributions
